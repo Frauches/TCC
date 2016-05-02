@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="SISCOLBLI - SISTEMA DE CONTROLE BIBLIOTECÁRIO" company="" webLink="http://" view-date="2016-02-01" view-index="0" gantt-divider-location="487" resource-divider-location="300" version="2.7.2" locale="pt_BR">
+<?xml version="1.0" encoding="UTF-8"?><project name="SISCOLBLI - SISTEMA DE CONTROLE BIBLIOTECÁRIO" company="" webLink="http://" view-date="2016-07-01" view-index="0" gantt-divider-location="444" resource-divider-location="300" version="2.7.2" locale="pt_BR">
     <description/>
-    <view zooming-state="default:8" id="gantt-chart">
-        <field id="tpd3" name="Nome" width="36" order="0"/>
-        <field id="tpd4" name="Data inicial" width="20" order="1"/>
-        <field id="tpd5" name="Data final" width="19" order="2"/>
+    <view zooming-state="default:11" id="gantt-chart">
+        <field id="tpd3" name="Nome" width="52" order="0"/>
+        <field id="tpd4" name="Data inicial" width="4" order="1"/>
+        <field id="tpd5" name="Data final" width="20" order="2"/>
         <field id="tpd6" name="Duração" width="23" order="3"/>
         <option id="taskLabelUp" value=""/>
         <option id="taskLabelRight" value="name"/>
@@ -150,10 +150,10 @@
         <displaycolumn property-id="tpd7" order="-1" width="75" visible="false"/>
         <displaycolumn property-id="tpd8" order="-1" width="75" visible="false"/>
         <displaycolumn property-id="tpd12" order="-1" width="75" visible="false"/>
-        <displaycolumn property-id="tpd3" order="0" width="172" visible="true"/>
-        <displaycolumn property-id="tpd4" order="1" width="95" visible="true"/>
-        <displaycolumn property-id="tpd5" order="2" width="93" visible="true"/>
-        <displaycolumn property-id="tpd6" order="3" width="108" visible="true"/>
+        <displaycolumn property-id="tpd3" order="0" width="222" visible="true"/>
+        <displaycolumn property-id="tpd4" order="1" width="20" visible="true"/>
+        <displaycolumn property-id="tpd5" order="2" width="85" visible="true"/>
+        <displaycolumn property-id="tpd6" order="3" width="98" visible="true"/>
         <displaycolumn property-id="tpd10" order="-1" width="75" visible="false"/>
         <displaycolumn property-id="tpd13" order="-1" width="75" visible="false"/>
         <displaycolumn property-id="tpd1" order="-1" width="75" visible="false"/>
