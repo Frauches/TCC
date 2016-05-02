@@ -38,7 +38,7 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" name="SISCOBLI" color="#cccccc" meeting="false" project="true" start="2016-03-01" duration="274" complete="0" expand="true">
+        <task id="0" name="SISCOBLI" color="#cccccc" meeting="false" project="true" start="2016-03-01" duration="269" complete="0" expand="true">
             <task id="4" name="Contextualização do Projeto" color="#8cb6ce" meeting="false" start="2016-03-01" duration="5" complete="0" expand="true">
                 <depend id="38" type="2" difference="0" hardness="Strong"/>
                 <task id="35" name="Reunião com o cliente" color="#8cb6ce" meeting="false" start="2016-03-01" duration="1" complete="0" expand="true">
@@ -93,7 +93,7 @@
                 <depend id="64" type="2" difference="0" hardness="Strong"/>
                 <task id="63" name="Documentos de Requisito" color="#8cb6ce" meeting="false" start="2016-03-27" duration="19" complete="0" expand="true"/>
             </task>
-            <task id="64" name="Casos de Uso" color="#000000" meeting="false" start="2016-04-15" duration="42" complete="0" expand="true">
+            <task id="64" name="Casos de Uso" color="#000000" meeting="false" start="2016-04-15" duration="39" complete="0" expand="true">
                 <depend id="71" type="2" difference="0" hardness="Strong"/>
                 <task id="65" name="Diagramas de Caso de Uso" color="#8cb6ce" meeting="false" start="2016-04-15" duration="10" complete="0" expand="true">
                     <depend id="66" type="2" difference="0" hardness="Strong"/>
@@ -104,10 +104,10 @@
                 <task id="67" name="Modelo de Dados Conceitual" color="#8cb6ce" meeting="false" start="2016-05-15" duration="5" complete="0" expand="true">
                     <depend id="68" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="68" name="Modelo Lógico" color="#8cb6ce" meeting="false" start="2016-05-20" duration="6" complete="0" expand="true">
+                <task id="68" name="Modelo Lógico" color="#8cb6ce" meeting="false" start="2016-05-20" duration="3" complete="0" expand="true">
                     <depend id="70" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="70" name="Modelo Físico" color="#8cb6ce" meeting="false" start="2016-05-26" duration="1" complete="0" expand="true"/>
+                <task id="70" name="Modelo Físico" color="#8cb6ce" meeting="false" start="2016-05-23" duration="1" complete="0" expand="true"/>
             </task>
             <task id="71" name="Modelagem" meeting="false" start="2016-05-27" duration="25" complete="0" expand="true">
                 <depend id="74" type="2" difference="0" hardness="Strong"/>
@@ -126,18 +126,18 @@
                 </task>
                 <task id="77" name="Diagramas" color="#8cb6ce" meeting="false" start="2016-06-29" duration="4" complete="0" expand="true"/>
             </task>
-            <task id="78" name="Implementação e Testes" meeting="false" start="2016-07-03" duration="115" complete="0" expand="true">
+            <task id="78" name="Implementação e Testes" meeting="false" start="2016-07-03" duration="95" complete="0" expand="true">
                 <depend id="82" type="2" difference="0" hardness="Strong"/>
-                <task id="79" name="Desenvolvimento do Sistema" color="#8cb6ce" meeting="false" start="2016-07-03" duration="100" complete="0" expand="true">
+                <task id="79" name="Desenvolvimento do Sistema" color="#8cb6ce" meeting="false" start="2016-07-03" duration="80" complete="0" expand="true">
                     <depend id="81" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="81" name="Testes" color="#8cb6ce" meeting="false" start="2016-10-11" duration="15" complete="0" expand="true"/>
+                <task id="81" name="Testes" color="#8cb6ce" meeting="false" start="2016-09-21" duration="15" complete="0" expand="true"/>
             </task>
-            <task id="82" name="Implantação" color="#000000" meeting="false" start="2016-10-26" duration="35" complete="0" expand="true">
-                <task id="83" name="Plano de Implantação" color="#8cb6ce" meeting="false" start="2016-10-26" duration="30" complete="0" expand="true">
+            <task id="82" name="Implantação" color="#000000" meeting="false" start="2016-10-26" duration="30" complete="0" expand="true">
+                <task id="83" name="Plano de Implantação" color="#8cb6ce" meeting="false" start="2016-10-26" duration="25" complete="0" expand="true">
                     <depend id="84" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="84" name="Plano de Treinamento" color="#8cb6ce" meeting="false" start="2016-11-25" duration="5" complete="0" expand="true"/>
+                <task id="84" name="Plano de Treinamento" color="#8cb6ce" meeting="false" start="2016-11-20" duration="5" complete="0" expand="true"/>
             </task>
         </task>
     </tasks>
